@@ -1,4 +1,4 @@
-/// <reference lib="dom" />
+
 
 import { Event, Integration, WrappedFunction } from '@sentry/types';
 
